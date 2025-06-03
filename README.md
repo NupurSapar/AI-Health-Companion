@@ -30,6 +30,7 @@ Adaptive AI health recommendations via an interactive avatar.
 Built-in ambient music to enhance focus and reduce stress levels.
 
 🔔 Real-Time Alerts & Reminders
+(Done using Twilio)
 Timely notifications for meal tracking, physical activity, and mindfulness exercises.
 
 Scheduled reminders to support consistent self-care routines.
@@ -44,11 +45,11 @@ Share personal health milestones and connect with peers.
 End-to-end secure user authentication with a focus on data privacy and protection.
 
 🛠 Technology Stack
-Frontend: Flutter / React Native
+Frontend: React.js
 
-Backend: Firebase / Node.js
+Backend: Node.js
 
-AI & ML Models: Python (TensorFlow, OpenAI GPT, Infermedica)
+AI & ML Models: Worqhat API
 
 Database: Firestore / MongoDB
 
